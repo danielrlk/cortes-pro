@@ -1,9 +1,7 @@
 streamlit
 yt-dlp
-moviepy==1.0.3
+moviepy
 opencv-python-headless
-mediapipe==0.10.9
-protobuf==3.20.3
-numpy==1.24.3
-
+mediapipe
+numpy
 watchdog
